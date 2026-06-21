@@ -1,4 +1,6 @@
-# Hand Landmark Detection & Virtual Drawing
+# Hand Landmark Detection & Virtual Drawing 🎨
+
+(Note: This project was made in 2025, but I decided to upload it to GitHub in 2026 to keep it safe :D. )
 
 A real-time hand tracking program using MediaPipe that detects 21 hand landmark points and uses their positions to create a virtual drawing application, drawing on screen by moving your index finger.
 
